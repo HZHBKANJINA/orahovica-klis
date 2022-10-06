@@ -1,0 +1,94 @@
+{
+    "idoli":[
+        {
+            "id": 57,
+            "ime": "Darko",
+            "prezime": "Jozic",
+            "nadimak": "Jozara",
+            "godiste": "1965",
+            "mjesto": "Pokojiste",
+            "opis_idola": "Veliki idol,voli popiti koju rakiju viska ponekad,Zuja obavezna,veliki ribar,smotan ko sajla,sto mu se rekne radi suprotno."
+          },
+          {
+            "id": 58,
+            "ime": "Marijan",
+            "prezime": "Mijic",
+            "nadimak": "Dr Mijic",
+            "godiste": "1944",
+            "mjesto": "Klis",
+            "opis_idola": "Lijecnik,svjedok ubojstava HRVATA u Trusini i klisu,branio HRVATSKE kuce,voli koju rakiju viska,veliki lovac."
+          },
+          {
+            "id": 59,
+            "ime": "Mijo",
+            "prezime": "Djopa",
+            "nadimak": "Mijo Djopa",
+            "godiste": "1963",
+            "mjesto": "Klis",
+            "opis_idola": "Veliki idol,voli uzimat tudje kuce po jeftinoj cijeni i prodavat po visokoj,voli koju rakiju viska,ostavila ga zena i djeca,izgubio kucu,sad je kod Dr Mijica."
+          },
+          {
+            "id": 60,
+            "ime": "Darko",
+            "prezime": "Drljo",
+            "nadimak": "Fratar Darko",
+            "godiste": "1975",
+            "mjesto": "Klis",
+            "opis_idola": "Fratar,voli rakiju viska."
+          },
+          {
+            "id": 61,
+            "ime": "Luka",
+            "prezime": "Filipovic",
+            "nadimak": "Luka",
+            "godiste": "1960",
+            "mjesto": "Celebici",
+            "opis_idola": "Veliki lovac,veliki ljubitelj zena i dosada."
+          },
+          {
+            "id": 62,
+            "ime": "Ivica",
+            "prezime": "Martinovic",
+            "nadimak": "Riba",
+            "godiste": "1970",
+            "mjesto": "Celebici",
+            "opis_idola": "Dosada,kockar,veliki ribar."
+          },
+          {
+            "id": 63,
+            "ime": "Josip",
+            "prezime": "Ruzic",
+            "nadimak": "Imenjak",
+            "godiste": "1957",
+            "mjesto": "Orahovica",
+            "opis_idola": "Bivsi pijano,kad se napije veselje nastaje pucanjem.Teska dobricina i veliki HRVAT."
+          },
+          {
+            "id": 64,
+            "ime": "Darko",
+            "prezime": "Andjelic",
+            "nadimak": "Darko",
+            "godiste": "1962",
+            "mjesto": "Drecelj",
+            "opis_idola": "Drzi konobu za pijane,svaku vecer vecina idola ide kod njega,srijedom pece 36 pilica od 2 kile i prodaje,dio se pojede u konobi i logicno idoli se napiju."
+          },
+          {
+            "id": 65,
+            "ime": "Vlado",
+            "prezime": "Andjelic",
+            "nadimak": "Vlado Andjelic",
+            "godiste": "1959",
+            "mjesto": "Drecelj",
+            "opis_idola": "Dobar covjek,velika provala."
+          },
+          {
+            "id": 66,
+            "ime": "Davorin",
+            "prezime": "Filipovic",
+            "nadimak": "Davor Filipovic",
+            "godiste": "1952",
+            "mjesto": "Drecelj",
+            "opis_idola": "Veliki idol,pijano,voli popiti,prilikom jednog pecenja rakije kad je ulazio u auto umjesto u auto sjeo na travu."
+          }
+    ]
+}
